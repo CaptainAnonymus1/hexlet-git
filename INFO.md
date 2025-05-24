@@ -1,1 +1,3 @@
- git is awesome/nexperiment with amend and some more
+git is awesome!
+new line
+experiment with amend
